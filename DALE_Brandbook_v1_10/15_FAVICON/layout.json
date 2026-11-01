@@ -1,0 +1,16 @@
+{
+  "alignment": "visible outline / equal opposite margins",
+  "shift_from_v2_px": [
+    22,
+    0
+  ],
+  "left_margin_px": 99,
+  "right_margin_px": 99,
+  "top_margin_px": 72,
+  "bottom_margin_px": 72,
+  "canvas_px": [
+    512,
+    512
+  ],
+  "mark_geometry_and_scale_unchanged": true
+}

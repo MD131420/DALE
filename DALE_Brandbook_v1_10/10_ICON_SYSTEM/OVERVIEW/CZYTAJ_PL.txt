@@ -1,0 +1,3 @@
+DALE / Zbiorczy podgląd ikon v12
+16 aktualnych ikon. PDF ma dwie strony: Default i Hover. PNG przedstawiają te same kompletne plansze. Geometrii ikon nie zmieniano.
+Pełne pliki SVG/PNG poszczególnych ikon pozostają w paczce DALE_Icons_v12.

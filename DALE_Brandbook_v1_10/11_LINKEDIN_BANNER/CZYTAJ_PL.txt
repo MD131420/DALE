@@ -1,0 +1,4 @@
+DALE / Baner LinkedIn v3
+
+Zielona linia pomiędzy sygnaturą i hasłem, szerokość 600 px, grubość 2 px. Usunięto DALE.COM. Zachowano pozostałą kompozycję wersji v3.
+PNG 1584 × 396 px przeznaczony do tła profilu osobistego. PDF i SVG zawierają wektorowy znak i tekst na krzywych z fontów Domus Titling i DINOT.

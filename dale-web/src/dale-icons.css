@@ -1,0 +1,5 @@
+/* DALE Icons v11 */
+.dale-icon-trigger { color:#CFD3D0; --dale-accent:#CFD3D0; --dale-accent-fill:none; }
+.dale-icon { width:48px; height:48px; fill:none; stroke:currentColor; stroke-width:1.5; stroke-linecap:round; stroke-linejoin:round; }
+@media(hover:hover){.dale-icon-trigger:hover { --dale-accent:#C6FF33; --dale-accent-fill:#C6FF33; }}
+.dale-icon-trigger:focus-visible,.dale-icon-trigger.is-active { --dale-accent:#C6FF33; --dale-accent-fill:#C6FF33; }

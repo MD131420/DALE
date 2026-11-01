@@ -1,0 +1,48 @@
+{
+  "Light": {
+    "width": 8192,
+    "height": 4096,
+    "minimum_linear": 0.11999999731779099,
+    "maximum_linear": 22.31999969482422,
+    "dynamic_range_stops": 7.53915882362917,
+    "sha256": "bb05a2344b0d23256c820ead38ce8e64c394024001fc9f7abbefbff95ef674fd",
+    "independent_decoder": {
+      "software": "ffmpeg / Radiance HDR decoder",
+      "metadata": {
+        "codec_name": "hdr",
+        "width": 8192,
+        "height": 4096,
+        "pix_fmt": "gbrpf32le"
+      },
+      "decoded_key_region_min": 0.35546875,
+      "decoded_key_region_max": 22.25,
+      "seam_neighbor_step": 0.21875,
+      "adjacent_edge_step": 0.21875,
+      "seam_step_consistent_with_local_gradient": true,
+      "finite_and_neutral_rgb": true
+    }
+  },
+  "Carbon": {
+    "width": 8192,
+    "height": 4096,
+    "minimum_linear": 0.004000000189989805,
+    "maximum_linear": 29.020000457763672,
+    "dynamic_range_stops": 12.82475985318695,
+    "sha256": "ad220dc86725fcf809a596e9e622afad3bc7f96868d38746b66cb808c46d2ab6",
+    "independent_decoder": {
+      "software": "ffmpeg / Radiance HDR decoder",
+      "metadata": {
+        "codec_name": "hdr",
+        "width": 8192,
+        "height": 4096,
+        "pix_fmt": "gbrpf32le"
+      },
+      "decoded_key_region_min": 0.1142578125,
+      "decoded_key_region_max": 29.0,
+      "seam_neighbor_step": 0.40625,
+      "adjacent_edge_step": 0.4375,
+      "seam_step_consistent_with_local_gradient": true,
+      "finite_and_neutral_rgb": true
+    }
+  }
+}

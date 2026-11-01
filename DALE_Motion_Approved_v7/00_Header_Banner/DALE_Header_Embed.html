@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DALE — animowana belka</title>
+<style>
+html,body{margin:0;background:#060504}
+.dale-motion-banner{display:block;width:100%;height:auto;aspect-ratio:20/3;object-fit:contain;background:#060504}
+</style>
+</head>
+<body>
+<video class="dale-motion-banner" muted playsinline preload="metadata" width="1920" height="288" poster="DALE_Header_Banner_v1_Poster.png" aria-label="DALE — Product Development, Design and Engineering">
+<source src="DALE_Header_Banner_v1_1920x288.mp4" type="video/mp4">
+</video>
+<script>
+const video=document.querySelector('.dale-motion-banner');
+if(!matchMedia('(prefers-reduced-motion: reduce)').matches)video.play().catch(()=>{});
+</script>
+</body>
+</html>

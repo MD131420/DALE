@@ -1,0 +1,3 @@
+DALE — szablon A4 czarno-biały
+Układ oferty zachowany. Dodano listę informacji do potwierdzenia. Stopka zawiera wyłącznie numer strony i liczbę stron.
+DOCX jest edytowalny. Wymaga Domus Titling Extralight, Domus Titling Light oraz DINOT. PDF zachowuje wygląd bez instalacji fontów. Treści przykładowe.

@@ -1,0 +1,9 @@
+DALE / Project presentation template v4
+
+Dziesiec stron 16:9. Dodano strone koncowa THANK YOU FOR YOUR ATTENTION z kontaktem i QR do https://dale.com.
+
+Dane: Piotr Dalewski, Product Development Engineer, piotr@dale.com, dale.com. Telefon +48 573 826 419 zachowano z wizytowki jako numer przykladowy, niepotwierdzony. Przed uzyciem nalezy go zastapic wlasciwym numerem.
+
+PPTX: edytowalne teksty i uklady, natywna lista punktowana na stronie Define. Wymaga fontow Domus Titling Extralight, Domus Titling Light i DINOT. PDF ma fonty osadzone.
+
+Tresci projektu, uslugi i harmonogram sa przykladowe. Mechanizm nie jest realizacja klienta DALE.

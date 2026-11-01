@@ -1,0 +1,120 @@
+{
+  "approved_ids": [
+    "01_Requirements",
+    "02_Design",
+    "03_Engineering",
+    "04_3D_Printing",
+    "05_Validation",
+    "06_Production",
+    "07_Simulations",
+    "08_Optimization",
+    "09_Assembly",
+    "10_Documentation",
+    "11_Presentation",
+    "12_Supplier_Sourcing",
+    "13_Strategy_Goals",
+    "14_VR_Technology",
+    "15_Injection_Mould",
+    "16_Strategy_Target"
+  ],
+  "engineering_direction": "Original cog, outer perimeter highlighted",
+  "icons": [
+    {
+      "group": "Icons",
+      "id": "01_Requirements",
+      "label": "REQUIREMENTS",
+      "description": "Wymagania i zakres"
+    },
+    {
+      "group": "Icons",
+      "id": "02_Design",
+      "label": "DESIGN / CAD",
+      "description": "Sześcian pośrodku ekranu CAD"
+    },
+    {
+      "id": "03_Engineering",
+      "label": "ENGINEERING",
+      "description": "Koło zębate / aktywny zewnętrzny kontur",
+      "group": "Icons"
+    },
+    {
+      "group": "Icons",
+      "id": "04_3D_Printing",
+      "label": "3D PRINTING",
+      "description": "Prototypowanie / druk 3D"
+    },
+    {
+      "group": "Icons",
+      "id": "05_Validation",
+      "label": "VALIDATION",
+      "description": "Przegląd i weryfikacja"
+    },
+    {
+      "group": "Icons",
+      "id": "06_Production",
+      "label": "PRODUCTION SUPPORT",
+      "description": "Przygotowanie produkcji"
+    },
+    {
+      "group": "Icons",
+      "id": "07_Simulations",
+      "label": "SIMULATIONS",
+      "description": "Symulacje inżynierskie"
+    },
+    {
+      "group": "Icons",
+      "id": "08_Optimization",
+      "label": "OPTIMIZATION",
+      "description": "Optymalizacja parametrów"
+    },
+    {
+      "group": "Icons",
+      "id": "09_Assembly",
+      "label": "ASSEMBLY",
+      "description": "Montaż części"
+    },
+    {
+      "group": "Icons",
+      "id": "10_Documentation",
+      "label": "DOCUMENTATION",
+      "description": "Dokumentacja / wymiary detalu bez górnej kreski"
+    },
+    {
+      "group": "Icons",
+      "id": "11_Presentation",
+      "label": "PRESENTATION",
+      "description": "Prezentacja projektu"
+    },
+    {
+      "group": "Icons",
+      "id": "12_Supplier_Sourcing",
+      "label": "SUPPLIER SOURCING",
+      "description": "Sourcing dostawców"
+    },
+    {
+      "group": "Icons",
+      "id": "13_Strategy_Goals",
+      "label": "STRATEGY & PLANNING",
+      "description": "Schody do celu / cała flaga aktywna"
+    },
+    {
+      "group": "Icons",
+      "id": "14_VR_Technology",
+      "label": "VIRTUAL REALITY",
+      "description": "Frontalny headset / aktywny moduł przedni"
+    },
+    {
+      "group": "Icons",
+      "id": "15_Injection_Mould",
+      "label": "INJECTION MOULD",
+      "description": "Połówki formy i słupy prowadzące"
+    },
+    {
+      "group": "Icons",
+      "id": "16_Strategy_Target",
+      "label": "STRATEGY & GOALS",
+      "description": "Poprzednia tarcza / pełny grot"
+    }
+  ],
+  "status": "visual_set_approved"
+}

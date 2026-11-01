@@ -1,0 +1,65 @@
+{
+  "active_direction": "Blueprint to Object",
+  "approved_burn_effect": "Microimpulses / study 5",
+  "burn_duration_ms": 1000,
+  "sample_original_duration_ms": 3100,
+  "previous_alternative": "Lime Cut, retained unchanged",
+  "logo_vector_paths": "exact original supplied contours",
+  "video_validation": [
+    {
+      "file": "01_Blueprint_to_Object/DALE_Blueprint_Pulses_v6_1080p.mp4",
+      "programs": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "225"
+        }
+      ],
+      "format": {
+        "duration": "7.500000"
+      }
+    },
+    {
+      "file": "02_Microimpulses_Fragment/DALE_Pulses_Fast_v1_1080p.mp4",
+      "programs": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "42"
+        }
+      ],
+      "format": {
+        "duration": "1.400000"
+      }
+    },
+    {
+      "file": "03_Lime_Cut/DALE_Lime_Cut_1080p.mp4",
+      "programs": [],
+      "streams": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "126"
+        }
+      ],
+      "format": {
+        "duration": "4.200000"
+      }
+    }
+  ],
+  "header_banner": {
+    "version": 1,
+    "dimensions": [
+      1920,
+      288
+    ],
+    "duration_ms": 7500,
+    "burn_duration_ms": 1000,
+    "ready_to_embed": true
+  }
+}

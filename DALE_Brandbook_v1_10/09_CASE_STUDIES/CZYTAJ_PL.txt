@@ -1,0 +1,43 @@
+DALE / CASE STUDY / V3
+Szablon 10 stron, 16:9. Wersja koncepcyjna do oceny.
+PPTX: edytowalne teksty i elementy kompozycji.
+PDF: podgląd i udostępnianie. PNG: podglądy poszczególnych stron.
+
+STRUKTURA
+01 Otwarcie: nazwa, klient, rok, krótki opis i główne zdjęcie.
+02 Wyzwanie: punkt wyjścia, zakres DALE, ograniczenia i kryteria sukcesu.
+03 Proces: kluczowa decyzja i jej uzasadnienie dla każdego wykorzystanego etapu.
+04 Rozwiązanie: widok ogólny oraz dwa detale, zgodnie z C3.2.
+05 Solution Explained: jedna centralna ilustracja oraz cztery boczne obszary opisu.
+06 Specyfikacja techniczna: edytowalna tabela parametrów, wartości, jednostek i odniesień. Obok miejsce na uwagi projektowe i opis dokumentacji.
+07 Weryfikacja: kryterium, metoda lub dokument oraz zaobserwowany wynik.
+08 Analiza wartości: natywny edytowalny wykres radarowy.
+09 Rezultaty: potwierdzony efekt, przekazane materiały i rzeczywisty status projektu.
+10 Kontakt: Piotr Dalewski, piotr@dale.com, dale.com, QR do https://dale.com.
+
+UZUPEŁNIANIE
+Wymień wszystkie pola w nawiasach kwadratowych, tytuł PRECISION ASSEMBLY i ilustrację mechanizmu.
+Mechanizm jest wygenerowaną ilustracją koncepcji, nie realizacją klienta.
+Pokaż faktyczny wkład DALE. Wyniki liczbowe wymagają źródła, jednostki, daty i podstawy porównania.
+Usuń niewykorzystane etapy i wiersze. Przy braku danych pomiarowych opisz potwierdzony rezultat jakościowy.
+Na stronie 04 użyto tej samej ilustracji i jej przybliżeń wyłącznie do pokazania układu.
+W PPTX obrazy i teksty można podmieniać osobno. Zachowaj proporcje logo i cienkie zielone obramowania detali.
+
+FONTY
+Domus Titling Extralight, Domus Titling Light, DINOT. Do edycji zainstaluj dostarczone wcześniej fonty. Nie dołączono fontów do paczki.
+Teksty szablonu są angielskie, zgodnie z dotychczasową prezentacją. Dostarczony DINOT nie zawiera pełnego zestawu polskich znaków.
+Przy rzeczywistym materiale po polsku potrzebny jest zatwierdzony krój z kompletem znaków.
+
+ZASTOSOWANIE NA STRONIE WWW
+Sekcje 01–06 stanowią kolejność narracji podstrony projektu. Na telefonie umieść zdjęcia detali pod głównym widokiem, a kryteria i wyniki w pionowej kolejności.
+Ten pakiet zawiera szablon prezentacyjny i zasady treści. Nie zawiera wdrożonej strony internetowej.
+
+Nowe strony 05 i 06 można powielać lub pomijać w zależności od ilości treści. Wszystkie parametry są polami do uzupełnienia; nie wpisano przykładowych wyników liczbowych.
+
+EDYCJA WYKRESU / STRONA 08
+W PowerPoint zaznacz wykres radarowy i wybierz Edytuj dane. W osadzonym arkuszu zmień nazwy kategorii i liczby.
+Przykładowe oceny: funkcjonalność 4, ergonomia 3, wykonalność produkcyjna 5, łatwość serwisowania 4, trwałość 4, efektywność kosztowa 3.
+Skala 0–5: wyższy wynik oznacza lepszą ocenę; 0 brak spełnienia kryterium, 3 spełnienie, 5 bardzo dobry wynik.
+Efektywność kosztowa jest oceną korzyści, nie kwotą kosztu. Kategorie i wartości są demonstracyjne.
+Przed użyciem zdefiniuj kryteria i sposób punktowania oraz podaj źródło i datę oceny. Wielkość powierzchni diagramu nie jest łączną wartością produktu.
+Wykres, etykiety i wartości są obiektami PowerPoint. PDF i PNG są podglądami statycznymi.

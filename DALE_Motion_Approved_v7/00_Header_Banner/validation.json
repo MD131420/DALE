@@ -1,0 +1,28 @@
+{
+  "video": {
+    "programs": [],
+    "streams": [
+      {
+        "width": 1920,
+        "height": 288,
+        "r_frame_rate": "30/1",
+        "nb_read_frames": "225"
+      }
+    ],
+    "format": {
+      "duration": "7.500000"
+    }
+  },
+  "final_logo_bounds": [
+    77,
+    43,
+    1843,
+    245
+  ],
+  "vertical_margins_px": [
+    43,
+    43
+  ],
+  "decode": "passed",
+  "format": "20:3"
+}

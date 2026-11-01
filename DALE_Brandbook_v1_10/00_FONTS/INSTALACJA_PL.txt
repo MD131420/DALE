@@ -1,0 +1,3 @@
+Fonty oryginalnie dostarczone przez uzytkownika. Zainstaluj pliki OTF i TTF przed edycja szablonow.
+Domus Titling Extralight, Domus Titling Light, DINOT Regular.
+Dostarczony DINOT nie zawiera pelnego zestawu polskich znakow.

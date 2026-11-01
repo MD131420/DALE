@@ -1,0 +1,10 @@
+DALE / IKONY V12
+Pełny zestaw 16 ikon. Zrezygnowano z propozycji śrub i przywrócono oryginalną geometrię koła zębatego.
+Engineering: zielony zewnętrzny kontur z zębami po najechaniu; środkowy otwór pozostaje jasnoszary.
+Dokumentacja: usunięto krótką kreskę nad górną linią wymiarową. Pozostawiono obie linie wymiarowe i linie pomocnicze prowadzące od detalu.
+Zatwierdzone CAD, forma wtryskowa, frontalny VR i tarcza celów pozostają w przyjętych wersjach.
+SVG są edytowalne. PNG 512 × 512 mają przezroczyste tło. Każda ikona ma stany Default i Hover.
+PDF/PNG Review pokazują dwie zmienione ikony. Pełny zestaw jest w katalogach Default i Hover.
+Do najechania w stronie użyj dale-icons.css i dale-icons-sprite.svg. PNG są statyczne.
+Przykład: <svg class="dale-icon" aria-hidden="true"><use href="dale-icons-sprite.svg#dale-03_engineering"></use></svg>
+SVG powinien znajdować się wewnątrz elementu z klasą dale-icon-trigger, np. przycisku z widoczną nazwą lub aria-label.

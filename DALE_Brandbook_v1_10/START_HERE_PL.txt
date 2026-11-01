@@ -1,0 +1,20 @@
+DALE / PAKIET IDENTYFIKACJI / V1.10
+Zacznij od DALE_Brandbook_v1_10.pdf - 35 strony aktualnych zasad.
+
+01_LOGO_VECTOR - oryginalne logo i eksporty
+06_PRESENTATIONS - prezentacja projektu v4
+07_EMAIL_SIGNATURE - podpis A / Domus v2 oraz HTML
+08_A4_MONOCHROME - czarno-bialy szablon A4
+09_CASE_STUDIES - case study v3 z edytowalnym radarem
+10_ICON_SYSTEM - 16 zatwierdzonych ikon, oba stany
+11_LINKEDIN_BANNER - baner profilu osobistego v3
+12_PRODUCT_IMAGERY - Carbon Studio oraz Light Studio
+13_STUDIO_HDRI - oba srodowiska 8K i instrukcja KeyShot
+14_LINKEDIN_POST_TEMPLATE - zaakceptowany edytowalny szablon posta
+15_FAVICON - docelowe biale D na Carbon z rownymi marginesami
+
+16_TECHNICAL_GRAPHICS - zatwierdzony zestaw v4, edytowalny PPTX, PDF, CSV
+
+Fonty dostarczone przez uzytkownika znajduja sie w folderze 00_FONTS. Do edycji: Domus Titling Extralight, Domus Titling Light i DINOT. Dostarczony DINOT nie zawiera wszystkich polskich znakow.
+Przykladowe teksty, parametry, wyniki, harmonogramy i numer telefonu wymagaja podmiany przed uzyciem. Ilustracje AI nie dokumentuja rzeczywistych projektow DALE.
+Wizytowka pozostaje robocza. Nie dodano raportu technicznego ani oznaczen projektowych.
